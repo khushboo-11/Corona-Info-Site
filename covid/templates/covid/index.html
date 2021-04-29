@@ -1,0 +1,10 @@
+{% extends "covid/layout.html" %}
+{% load static %}
+
+{% block body %}
+    <div class="container p-3 my-3 bg-dark text-white">
+        <h1>covid 19!</h1>
+        <a href="{% url 'info' %}">More about covid!</a>
+    </div>
+
+{% endblock %}
