@@ -1,4 +1,5 @@
 <h1>COVID-19(Final Project)</h1>
+video link for the project:https://youtu.be/c3fOc6VTb38
 
 - My Final Project is a site including information on Covid.The user can take an assessment including 4 questions to check if the person has any chance of getting the virus.The site also includes a Q/A which displays the questions asked and the user can login to ask questions and answer the same.
 - The web application utilize Django (including model) on the back-end and JavaScript on the front-end and is mobile-responsive
